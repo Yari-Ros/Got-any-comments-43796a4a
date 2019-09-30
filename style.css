@@ -1,0 +1,37 @@
+input {
+	border-radius: 30px;
+}
+
+
+body {
+	background-image: url(C:/Users/YariR/OneDrive/Afbeeldingen/Saved%20Pictures/you%20asked%20who%20joe%20is%20didnt%20you.gif);
+}
+
+
+head { 
+	color: #6aff2f
+ }
+
+ body { 
+ 	color: #6aff2f;
+  }
+h1 { 
+    text-align: center; 
+    background-color: green; 
+}
+label { 
+    text-align: center; 
+    background-color: green; 
+}
+p {  
+    background-color: green; 
+}
+
+textarea {
+	border: thick double #32CD32;
+}
+
+/* Selects any <input> when focused */
+input:focus {
+  color: red;
+}
